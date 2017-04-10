@@ -1,0 +1,6 @@
+---
+
+ntp_servers:
+  - 0.ntp.beyond.pl
+  - 1.ntp.beyond.pl
+

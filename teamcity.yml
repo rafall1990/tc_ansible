@@ -1,0 +1,5 @@
+- hosts: teamcity
+  remote_user: ansible
+  sudo: yes
+  roles:
+    - matisku.teamcity-server
